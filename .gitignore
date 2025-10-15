@@ -1,0 +1,32 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# ---- Virtual Environment ----
+venv/
+env/
+.venv/
+
+# ---- Streamlit ----
+.streamlit/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Jupyter & notebooks ----
+.ipynb_checkpoints/
+*.ipynb
+
+# ---- Cache & builds ----
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ---- Environment Variables ----
+.env
